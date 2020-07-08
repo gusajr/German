@@ -1,0 +1,24 @@
+*****ENTITY*****
+The first element of the database will be the modelling.
+English is not my native language but for compatibility is quite good.
+I'm interested in SQL, so i will use it.
+
+VERB
+	infinitive
+	perfect
+	meaning_spanish
+	group_key
+
+VERB_GROUP
+	group_key
+	mnemonic_spanish
+
+WORD
+	word
+	meaning_spanish
+	article
+
+PHRASE
+	phrase
+	description
+	meaning_spanish
